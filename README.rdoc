@@ -1,0 +1,1 @@
+An exercise demonstrating a couple Active Record Associations.
